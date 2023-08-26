@@ -15,4 +15,19 @@ I will explore the data and try to answer some questions like:
 - Which features and services are most profitable?
 
 Content
-- # 2. Loading Libraries and Data
+1. Loading Libraries and Data
+2. Understanding the Data
+3. Checking Missing Values
+4. Data Manipulation
+5. Data Visualization
+6.  Data Preprocessing
+7. Machine Learning Model Evaluations and Predictions
+  - KNN
+  - SVC
+  - Ramdom Forest
+  - Logistic Regression
+  - Decision Tree Classifier
+  - AdaBoost Classifier
+  - Gradient Boosting Classifier
+8. Model Selection with VotingClassifier
+
